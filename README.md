@@ -4,7 +4,7 @@ This websait is Responsive-Design for Lerning sprint1 to react training
 
 ## Demo
 
-[siphome](https://mahmoudmalhis.github.io/Responsive-Design/)
+[Responsive-Design](https://mahmoudmalhis.github.io/Responsive-Design/)
 
 
 ## Feedback
