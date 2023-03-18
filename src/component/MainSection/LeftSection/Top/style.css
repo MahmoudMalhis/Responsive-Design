@@ -1,0 +1,20 @@
+.main {
+    width: 70%;
+}
+
+article {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    padding-bottom: 2em;
+    margin-bottom: 2em;
+}
+
+article p {
+    margin: 1em 0;
+}
+
+.article-featured {
+    flex-direction: column;
+    border-bottom: #707070 1px solid;
+}

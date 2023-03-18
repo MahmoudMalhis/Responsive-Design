@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: "Ubuntu", sans-serif;
+    font-size: 1.125rem;
+    margin: 0;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+}
+
+.container {
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+i {
+    font-weight: 900;
+}
+
+@media (min-width: 768px) {
+    .container {
+        width: 750px;
+        max-width: 95%;
+    }
+}
+
+@media (min-width: 992px) {
+    .container {
+        width: 970px;
+        max-width: 95%;
+    }
+}
+
+h1,
+h2,
+h3 {
+    font-family: "Lora", serif;
+    font-weight: 400;
+    color: #143774;
+}

@@ -1,0 +1,22 @@
+aside {
+    width: 25%;
+    min-width: 200px;
+    margin-left: 1em;
+}
+
+.sidebar-widget {
+    border: 20px solid #efefef;
+    margin-bottom: 2em;
+    padding: 1em;
+}
+
+.widget-title {
+    margin: 0.83em 0;
+    font-size: 1rem;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+}
+
+.widget-body {
+    margin: 0.83em 0;
+}

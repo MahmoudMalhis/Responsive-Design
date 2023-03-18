@@ -1,0 +1,10 @@
+section .container main p.article-body {
+    margin: 1em 0;
+    font-size: 1.125rem;
+    font-weight: normal;
+}
+
+div main p.article-body a {
+    text-decoration: underline;
+    font-size: 1.125rem;
+}

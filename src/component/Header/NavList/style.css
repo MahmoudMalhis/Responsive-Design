@@ -1,0 +1,9 @@
+li {
+    margin-left: 2em;
+}
+
+li a {
+    color: #707070;
+    font-weight: 700;
+    padding: 0.25em 0;
+}
